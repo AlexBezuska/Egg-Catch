@@ -1,19 +1,17 @@
 ### Egg Catch!
 a SplatJS game tutorial by Alex Bezuska
 
-# [Try the game](http://louisvillemakesgames.org/education/projects/candycatch/)
+## Before we get started:
+[LMG Codepen signup](https://docs.google.com/forms/d/1PLbxnpzasREP0YvWKkCPQcf-4G1P_VUwmxE0YB9Vk-E/viewform)
 
-#Codepen starting point:
+# [Try the finsihed game](http://louisvillemakesgames.org/education/projects/candycatch/)
+
+#Ourstarting point:
 [Egg Catch starter](http://codepen.io/AlexBezuska/pen/KzYozg)
 
 
 #Resources
-
 [SplatJS Documentation](http://splatjs.com/)
-
-
-
-## More Resources
 
 ###### Create your own pixel art and save it using these online tools:
 http://pixieengine.com/
