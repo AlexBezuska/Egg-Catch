@@ -9,6 +9,39 @@ a SplatJS game tutorial by Alex Bezuska
 #Our starting point:
 [Egg Catch starter](http://codepen.io/AlexBezuska/pen/KzYozg)
 
+#assets
+
+###Background
+![alt tag](./shared/img/background.png)
+
+http://louisvillemakesgames.org/education/content/background.png
+
+###Chicken
+![alt tag](./shared/img/chicken.png)
+
+http://louisvillemakesgames.org/education/content/chicken.png
+
+###Eggs
+![alt tag](./shared/img/egg-brown.png)
+
+http://louisvillemakesgames.org/education/content/egg-brown.png
+
+![alt tag](./shared/img/egg-blue.png)
+
+http://louisvillemakesgames.org/education/content/egg-blue.png
+
+![alt tag](./shared/img/egg-white.png)
+
+http://louisvillemakesgames.org/education/content/egg-white.png
+
+![alt tag](./shared/img/egg-green.png)
+
+http://louisvillemakesgames.org/education/content/egg-green.png
+
+
+
+
+
 
 #Resources
 [SplatJS Documentation](http://splatjs.com/)
