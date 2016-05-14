@@ -4,7 +4,7 @@ a SplatJS game tutorial by Alex Bezuska
 ## Before we get started:
 #[LMG Codepen signup](https://docs.google.com/forms/d/1PLbxnpzasREP0YvWKkCPQcf-4G1P_VUwmxE0YB9Vk-E/viewform)
 
-### [Try the finished game](http://louisvillemakesgames.org/education/projects/candycatch/)
+### [Try the finished game (codepen link)](http://codepen.io/AlexBezuska/pen/YqMagz)
 
 #Our starting point:
 [Egg Catch starter](http://codepen.io/AlexBezuska/pen/KzYozg)
